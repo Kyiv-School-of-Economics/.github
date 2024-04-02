@@ -6,7 +6,7 @@ This is the home page on Github for the [Kyiv School of Economics](https://kse.u
 
 For now, this Github Organization operates mainly as a vehicle for the KSE Data Science and Dev Hub. In the Data Science and Dev Hub, KSE students work under faculty guidance on projects that address three types of needs.
 
-First, we offer short-term data science support to internal KSE clients. In response to requests, or at our own initiative, we bring tools of  with actionable intelligence about their operations, based on analysis and visualization of data. In [one current project](https://github.com/Kyiv-School-of-Economics/student-performance), we are examining data on student academic performance in different programs across multiple years. The goal is to identify correlates of student performance, with the aim of improving decisions on admissions, the award of scholarships, and the design of programs. In all work, we adhere to strict practices on data privacy: is performed 
+First, we offer short-term data science support to internal KSE clients. In response to requests, or at our own initiative, we bring tools of  with actionable intelligence about their operations, based on analysis and visualization of data. In [one current project](https://github.com/Kyiv-School-of-Economics/student-performance), we are examining data on student academic performance in different programs across multiple years. The goal is to identify correlates of student performance, with the aim of improving decisions on admissions, the award of scholarships, and the design of programs. In all work, we adhere to strict practices on data privacy. 
 
 Second, we develop code to automate, streamline, and improve internal KSE workflows and processes. 
 

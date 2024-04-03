@@ -36,7 +36,7 @@ Positions as Assistants in the KSE Data Science and Dev Hub are open to students
 
 Students working on data science projects should have previous experience coding in R. Prior experience with git, Github, RStudio, and Quarto/R Markdown is a big plus. 
 
-Students who are expected to perform service work for KSE as a condition of their grant or scholarship support are eligible to apply the hours they work in the Data Science and Dev Hub towards their service obligations. Other students are welcome to apply to work with us on a volunteeer basis.
+Students who are expected to perform service work for KSE as a condition of their grant or scholarship support are eligible to apply the hours they work in the Data Science and Dev Hub towards their service obligations. Other students are welcome to apply to work with us on a volunteer basis.
 
 
 We welcome and thank you for your support of the [Kyiv School of Economics](https://kse.ua/).

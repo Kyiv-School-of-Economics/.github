@@ -24,7 +24,7 @@ Our work is informed by several commitments:
 
 _Data privacy_: We are scrupulous about using processes that protect the confidentiality of all personally identifiable information (PII). Our preferred approach is organize work processes that assure we simply do not receive any data containing any sensitive PII. 
 
-_Non-profit status_: Our only clients are internal to KSE, or are governmental or not-for-profit partner organizations for which we perform services on an unpaid, volunteer basis. We do not perform paid works for hire. Those who wish to support our work are warmly encouraged to donate to KSE's scholarship funds, which support KSE students that work in the Data Science and Dev Hub.
+_Non-profit status_: Our only clients are internal to KSE, or are governmental or not-for-profit partner organizations for which we perform services on an unpaid, volunteer basis. We do not perform paid works for hire. Those who wish to support our work are warmly encouraged to donate to KSE's scholarship funds, which support the students who work in the Data Science and Dev Hub and in other vital roles at KSE.
 
 _Open source_: We do not produce proprietary software. Except in unusual circumstances subject to specific negotiation, all code we deliver to clients is released to the public and covered by open source licenses.
 
